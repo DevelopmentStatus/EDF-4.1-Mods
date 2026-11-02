@@ -1,0 +1,6861 @@
+[
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "Engineer.mdb",
+    "modelSha256": "eeecccdd67aa396ec75b69194d8ba0ac7f70416e66fde92d7b8b47ab72e956f4",
+    "boneTableCount": 65,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 64,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 61,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 53,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": 11,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "armArmor1_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 11,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_l",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "thumb0_l",
+        "parent": 12,
+        "nextSibling": 15,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 15,
+        "name": "index0_l",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 16
+      },
+      {
+        "index": 16,
+        "name": "index1_l",
+        "parent": 15,
+        "nextSibling": -1,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index2_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_l",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_l",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_l",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 25,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": 30,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "armArmor1_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 41,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "kawan1_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan2_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": 47,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "radar0",
+        "parent": 6,
+        "nextSibling": 51,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "radar1",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "radar2",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "radarTop",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "backslide",
+        "parent": 6,
+        "nextSibling": 52,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "neckCover",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "sune_r",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "ashi_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": 56
+      },
+      {
+        "index": 56,
+        "name": "toe_r",
+        "parent": 55,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "sune_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 59
+      },
+      {
+        "index": 59,
+        "name": "ashi_l",
+        "parent": 58,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "toe_l",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "aim_target",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "light_target",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "Engineer",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "Engineer_Lod1.mdb",
+    "modelSha256": "5581b6a6814f2d6ca7bb5b9c1c0dd9f915bfcf38e95110347f679fb496061f30",
+    "boneTableCount": 65,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 64,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 61,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 53,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": 11,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "armArmor1_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 11,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_l",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "thumb0_l",
+        "parent": 12,
+        "nextSibling": 15,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 15,
+        "name": "index0_l",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 16
+      },
+      {
+        "index": 16,
+        "name": "index1_l",
+        "parent": 15,
+        "nextSibling": -1,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index2_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_l",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_l",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_l",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 25,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": 30,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "armArmor1_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 41,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "kawan1_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan2_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": 47,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "radar0",
+        "parent": 6,
+        "nextSibling": 51,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "radar1",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "radar2",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "radarTop",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "backslide",
+        "parent": 6,
+        "nextSibling": 52,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "neckCover",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "sune_r",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "ashi_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": 56
+      },
+      {
+        "index": 56,
+        "name": "toe_r",
+        "parent": 55,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "sune_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 59
+      },
+      {
+        "index": 59,
+        "name": "ashi_l",
+        "parent": 58,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "toe_l",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "aim_target",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "light_target",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "Engineer",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "Engineer_Lod2.mdb",
+    "modelSha256": "5060aa194fbae8c46324fbb53363dc8d9f8d818bfd634e1c977fc061da740215",
+    "boneTableCount": 65,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 64,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 61,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 53,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": 11,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "armArmor1_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 11,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_l",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "thumb0_l",
+        "parent": 12,
+        "nextSibling": 15,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 15,
+        "name": "index0_l",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 16
+      },
+      {
+        "index": 16,
+        "name": "index1_l",
+        "parent": 15,
+        "nextSibling": -1,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index2_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_l",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_l",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_l",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 25,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": 30,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "armArmor1_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 41,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "kawan1_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan2_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": 47,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "radar0",
+        "parent": 6,
+        "nextSibling": 51,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "radar1",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "radar2",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "radarTop",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "backslide",
+        "parent": 6,
+        "nextSibling": 52,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "neckCover",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "sune_r",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "ashi_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": 56
+      },
+      {
+        "index": 56,
+        "name": "toe_r",
+        "parent": 55,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "sune_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 59
+      },
+      {
+        "index": 59,
+        "name": "ashi_l",
+        "parent": 58,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "toe_l",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "aim_target",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "light_target",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "Engineer",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "ArmySoldier.mdb",
+    "modelSha256": "8af265630dd73a41b48c19a8be917367c3db4dc1dd3bcac075c5aed6faaa2d15",
+    "boneTableCount": 63,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 62,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 59,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 47,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 22,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "te_l",
+        "parent": 9,
+        "nextSibling": 20,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "thumb0_l",
+        "parent": 10,
+        "nextSibling": 13,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "thumb1_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 13,
+        "name": "index0_l",
+        "parent": 10,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "otherFinger0_l",
+        "parent": 10,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "otherFinger1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "otherFinger2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "arms_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 20,
+        "name": "kawan1_l",
+        "parent": 9,
+        "nextSibling": 21,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "kawan2_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 25
+      },
+      {
+        "index": 25,
+        "name": "armArmor1_l",
+        "parent": 24,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 41,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "te_r",
+        "parent": 28,
+        "nextSibling": 39,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "thumb0_r",
+        "parent": 29,
+        "nextSibling": 32,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "thumb1_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 32,
+        "name": "index0_r",
+        "parent": 29,
+        "nextSibling": 35,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "index1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "index2_r",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "otherFinger0_r",
+        "parent": 29,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "otherFinger1_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "otherFinger2_r",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "arms_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 39,
+        "name": "kawan1_r",
+        "parent": 28,
+        "nextSibling": 40,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "kawan2_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor1_r",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 52,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "sune_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "ashi_r",
+        "parent": 48,
+        "nextSibling": 51,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "toe_r",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "footArmor_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "sune_l",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "ashi_l",
+        "parent": 53,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "toe_l",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "footArmor_l",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "waistPorch_r",
+        "parent": 2,
+        "nextSibling": 58,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "waistPorch_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "aim_target",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": 61
+      },
+      {
+        "index": 61,
+        "name": "light_target",
+        "parent": 60,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "ArmySoldier",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "ArmySoldier_Lod1.mdb",
+    "modelSha256": "56776712342271c64b8161a5626f4da0ed93565613bd5ca21c4751c3e4989df8",
+    "boneTableCount": 63,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 62,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 59,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 47,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 22,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "te_l",
+        "parent": 9,
+        "nextSibling": 20,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "thumb0_l",
+        "parent": 10,
+        "nextSibling": 13,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "thumb1_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 13,
+        "name": "index0_l",
+        "parent": 10,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "otherFinger0_l",
+        "parent": 10,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "otherFinger1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "otherFinger2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "arms_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 20,
+        "name": "kawan1_l",
+        "parent": 9,
+        "nextSibling": 21,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "kawan2_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 25
+      },
+      {
+        "index": 25,
+        "name": "armArmor1_l",
+        "parent": 24,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 41,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "te_r",
+        "parent": 28,
+        "nextSibling": 39,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "thumb0_r",
+        "parent": 29,
+        "nextSibling": 32,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "thumb1_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 32,
+        "name": "index0_r",
+        "parent": 29,
+        "nextSibling": 35,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "index1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "index2_r",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "otherFinger0_r",
+        "parent": 29,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "otherFinger1_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "otherFinger2_r",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "arms_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 39,
+        "name": "kawan1_r",
+        "parent": 28,
+        "nextSibling": 40,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "kawan2_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor1_r",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 52,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "sune_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "ashi_r",
+        "parent": 48,
+        "nextSibling": 51,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "toe_r",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "footArmor_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "sune_l",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "ashi_l",
+        "parent": 53,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "toe_l",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "footArmor_l",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "waistPorch_r",
+        "parent": 2,
+        "nextSibling": 58,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "waistPorch_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "aim_target",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": 61
+      },
+      {
+        "index": 61,
+        "name": "light_target",
+        "parent": 60,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "ArmySoldier",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ARMYANDENGINEER.MRAB",
+    "model": "ArmySoldier_Lod2.mdb",
+    "modelSha256": "4aee0e06601bf8e93f48b6b2c3762afe203ca91bfb7d3c84bd5e68eba4c8cf75",
+    "boneTableCount": 63,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 62,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 59,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 47,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 22,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "te_l",
+        "parent": 9,
+        "nextSibling": 20,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "thumb0_l",
+        "parent": 10,
+        "nextSibling": 13,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "thumb1_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 13,
+        "name": "index0_l",
+        "parent": 10,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "otherFinger0_l",
+        "parent": 10,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "otherFinger1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "otherFinger2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "arms_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 20,
+        "name": "kawan1_l",
+        "parent": 9,
+        "nextSibling": 21,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "kawan2_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 25
+      },
+      {
+        "index": 25,
+        "name": "armArmor1_l",
+        "parent": 24,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 41,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "te_r",
+        "parent": 28,
+        "nextSibling": 39,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "thumb0_r",
+        "parent": 29,
+        "nextSibling": 32,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "thumb1_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 32,
+        "name": "index0_r",
+        "parent": 29,
+        "nextSibling": 35,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "index1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "index2_r",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "otherFinger0_r",
+        "parent": 29,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "otherFinger1_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "otherFinger2_r",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "arms_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 39,
+        "name": "kawan1_r",
+        "parent": 28,
+        "nextSibling": 40,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "kawan2_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor1_r",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 52,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "sune_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "ashi_r",
+        "parent": 48,
+        "nextSibling": 51,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "toe_r",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "footArmor_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "sune_l",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "ashi_l",
+        "parent": 53,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "toe_l",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "footArmor_l",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "waistPorch_r",
+        "parent": 2,
+        "nextSibling": 58,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "waistPorch_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "aim_target",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": 61
+      },
+      {
+        "index": 61,
+        "name": "light_target",
+        "parent": 60,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "ArmySoldier",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/ENGINEER.RAB",
+    "model": "Engineer.mdb",
+    "modelSha256": "eeecccdd67aa396ec75b69194d8ba0ac7f70416e66fde92d7b8b47ab72e956f4",
+    "boneTableCount": 65,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": 64,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "koshi",
+        "parent": 1,
+        "nextSibling": 61,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "hara0",
+        "parent": 2,
+        "nextSibling": 53,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara1",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara2",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "mune",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "kata_l",
+        "parent": 6,
+        "nextSibling": 26,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "jowan0_l",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "armArmor0_l",
+        "parent": 8,
+        "nextSibling": 11,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "armArmor1_l",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 11,
+        "name": "kawan0_l",
+        "parent": 8,
+        "nextSibling": 24,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_l",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "thumb0_l",
+        "parent": 12,
+        "nextSibling": 15,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb1_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 15,
+        "name": "index0_l",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 16
+      },
+      {
+        "index": 16,
+        "name": "index1_l",
+        "parent": 15,
+        "nextSibling": -1,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index2_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_l",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_l",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_l",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "jowan1_l",
+        "parent": 8,
+        "nextSibling": 25,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan2_l",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "kata_r",
+        "parent": 6,
+        "nextSibling": 45,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "jowan0_r",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": 28
+      },
+      {
+        "index": 28,
+        "name": "armArmor0_r",
+        "parent": 27,
+        "nextSibling": 30,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "armArmor1_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 27,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 41,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "kawan1_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan2_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 27,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 27,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "kubi",
+        "parent": 6,
+        "nextSibling": 47,
+        "firstChild": 46
+      },
+      {
+        "index": 46,
+        "name": "light",
+        "parent": 45,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "radar0",
+        "parent": 6,
+        "nextSibling": 51,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "radar1",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "radar2",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": 50
+      },
+      {
+        "index": 50,
+        "name": "radarTop",
+        "parent": 49,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "backslide",
+        "parent": 6,
+        "nextSibling": 52,
+        "firstChild": -1
+      },
+      {
+        "index": 52,
+        "name": "neckCover",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "momo_r",
+        "parent": 2,
+        "nextSibling": 57,
+        "firstChild": 54
+      },
+      {
+        "index": 54,
+        "name": "sune_r",
+        "parent": 53,
+        "nextSibling": -1,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "ashi_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": 56
+      },
+      {
+        "index": 56,
+        "name": "toe_r",
+        "parent": 55,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "momo_l",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "sune_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 59
+      },
+      {
+        "index": 59,
+        "name": "ashi_l",
+        "parent": 58,
+        "nextSibling": -1,
+        "firstChild": 60
+      },
+      {
+        "index": 60,
+        "name": "toe_l",
+        "parent": 59,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "aim_center",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "aim_target",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "light_target",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "Engineer",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/HEAVYARMOR.MRAB",
+    "model": "HeavyArmor.mdb",
+    "modelSha256": "09a77fee0041e33c11fcef70cab898224aa6fdcef01fd2b7f7d0295904721293",
+    "boneTableCount": 76,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "HeavyArmor",
+        "parent": 0,
+        "nextSibling": 2,
+        "firstChild": -1
+      },
+      {
+        "index": 2,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "koshi",
+        "parent": 2,
+        "nextSibling": 72,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara0",
+        "parent": 3,
+        "nextSibling": 64,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara1",
+        "parent": 4,
+        "nextSibling": 63,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara2",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "mune",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "frontArmor_over",
+        "parent": 7,
+        "nextSibling": 9,
+        "firstChild": -1
+      },
+      {
+        "index": 9,
+        "name": "kubi",
+        "parent": 7,
+        "nextSibling": 10,
+        "firstChild": -1
+      },
+      {
+        "index": 10,
+        "name": "kata_l",
+        "parent": 7,
+        "nextSibling": 28,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "jowan0_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "kawan0_l",
+        "parent": 11,
+        "nextSibling": 25,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "te_l",
+        "parent": 12,
+        "nextSibling": 24,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb0_l",
+        "parent": 13,
+        "nextSibling": 16,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "thumb1_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "index0_l",
+        "parent": 13,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "index2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "otherFinger0_l",
+        "parent": 13,
+        "nextSibling": 22,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger1_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": 21
+      },
+      {
+        "index": 21,
+        "name": "otherFinger2_l",
+        "parent": 20,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "arms_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 23
+      },
+      {
+        "index": 23,
+        "name": "armsFlip_l",
+        "parent": 22,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armsLowerFlip_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_l",
+        "parent": 11,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "armArmor0_l",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "kata_r",
+        "parent": 7,
+        "nextSibling": 46,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "jowan0_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 29,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 41
+      },
+      {
+        "index": 41,
+        "name": "armsFlip_r",
+        "parent": 40,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "armsLowerFlip_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 29,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 45
+      },
+      {
+        "index": 45,
+        "name": "armArmor0_r",
+        "parent": 44,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "arm_ik_r",
+        "parent": 7,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "chain_base_r",
+        "parent": 7,
+        "nextSibling": 50,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "chain0_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "chain1_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "chain_base_l",
+        "parent": 7,
+        "nextSibling": 53,
+        "firstChild": 51
+      },
+      {
+        "index": 51,
+        "name": "chain0_l",
+        "parent": 50,
+        "nextSibling": -1,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "chain1_l",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "arm_ik_l",
+        "parent": 7,
+        "nextSibling": 54,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "backWeapon_r",
+        "parent": 7,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "backWeaponJoint_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "backWeapon_l",
+        "parent": 7,
+        "nextSibling": 58,
+        "firstChild": 57
+      },
+      {
+        "index": 57,
+        "name": "backWeaponJoint_l",
+        "parent": 56,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "bCoverT",
+        "parent": 7,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "bCoverU",
+        "parent": 7,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster",
+        "parent": 7,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "light_l",
+        "parent": 7,
+        "nextSibling": 62,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "light_r",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 63,
+        "name": "frontArmor_under",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "momo_r",
+        "parent": 3,
+        "nextSibling": 67,
+        "firstChild": 65
+      },
+      {
+        "index": 65,
+        "name": "sune_r",
+        "parent": 64,
+        "nextSibling": -1,
+        "firstChild": 66
+      },
+      {
+        "index": 66,
+        "name": "ashi_r",
+        "parent": 65,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "momo_l",
+        "parent": 3,
+        "nextSibling": 70,
+        "firstChild": 68
+      },
+      {
+        "index": 68,
+        "name": "sune_l",
+        "parent": 67,
+        "nextSibling": -1,
+        "firstChild": 69
+      },
+      {
+        "index": 69,
+        "name": "ashi_l",
+        "parent": 68,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 70,
+        "name": "skirt_r",
+        "parent": 3,
+        "nextSibling": 71,
+        "firstChild": -1
+      },
+      {
+        "index": 71,
+        "name": "skirt_l",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 72,
+        "name": "aim_center",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 73
+      },
+      {
+        "index": 73,
+        "name": "aim_target",
+        "parent": 72,
+        "nextSibling": -1,
+        "firstChild": 74
+      },
+      {
+        "index": 74,
+        "name": "light_target_r",
+        "parent": 73,
+        "nextSibling": 75,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "light_target_l",
+        "parent": 73,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/HEAVYARMOR.MRAB",
+    "model": "HeavyArmo_Lod1.mdb",
+    "modelSha256": "a83ed02e97085c56313bdbfab7cbdc9c569779fc1738ccf732ab46c7ddf632af",
+    "boneTableCount": 76,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "HeavyArmor",
+        "parent": 0,
+        "nextSibling": 2,
+        "firstChild": -1
+      },
+      {
+        "index": 2,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "koshi",
+        "parent": 2,
+        "nextSibling": 72,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara0",
+        "parent": 3,
+        "nextSibling": 64,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara1",
+        "parent": 4,
+        "nextSibling": 63,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara2",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "mune",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "frontArmor_over",
+        "parent": 7,
+        "nextSibling": 9,
+        "firstChild": -1
+      },
+      {
+        "index": 9,
+        "name": "kubi",
+        "parent": 7,
+        "nextSibling": 10,
+        "firstChild": -1
+      },
+      {
+        "index": 10,
+        "name": "kata_l",
+        "parent": 7,
+        "nextSibling": 28,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "jowan0_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "kawan0_l",
+        "parent": 11,
+        "nextSibling": 25,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "te_l",
+        "parent": 12,
+        "nextSibling": 24,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb0_l",
+        "parent": 13,
+        "nextSibling": 16,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "thumb1_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "index0_l",
+        "parent": 13,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "index2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "otherFinger0_l",
+        "parent": 13,
+        "nextSibling": 22,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger1_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": 21
+      },
+      {
+        "index": 21,
+        "name": "otherFinger2_l",
+        "parent": 20,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "arms_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 23
+      },
+      {
+        "index": 23,
+        "name": "armsFlip_l",
+        "parent": 22,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armsLowerFlip_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_l",
+        "parent": 11,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "armArmor0_l",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "kata_r",
+        "parent": 7,
+        "nextSibling": 46,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "jowan0_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 29,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 41
+      },
+      {
+        "index": 41,
+        "name": "armsFlip_r",
+        "parent": 40,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "armsLowerFlip_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 29,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 45
+      },
+      {
+        "index": 45,
+        "name": "armArmor0_r",
+        "parent": 44,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "arm_ik_r",
+        "parent": 7,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "chain_base_r",
+        "parent": 7,
+        "nextSibling": 50,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "chain0_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "chain1_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "chain_base_l",
+        "parent": 7,
+        "nextSibling": 53,
+        "firstChild": 51
+      },
+      {
+        "index": 51,
+        "name": "chain0_l",
+        "parent": 50,
+        "nextSibling": -1,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "chain1_l",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "arm_ik_l",
+        "parent": 7,
+        "nextSibling": 54,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "backWeapon_r",
+        "parent": 7,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "backWeaponJoint_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "backWeapon_l",
+        "parent": 7,
+        "nextSibling": 58,
+        "firstChild": 57
+      },
+      {
+        "index": 57,
+        "name": "backWeaponJoint_l",
+        "parent": 56,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "bCoverT",
+        "parent": 7,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "bCoverU",
+        "parent": 7,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster",
+        "parent": 7,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "light_l",
+        "parent": 7,
+        "nextSibling": 62,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "light_r",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 63,
+        "name": "frontArmor_under",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "momo_r",
+        "parent": 3,
+        "nextSibling": 67,
+        "firstChild": 65
+      },
+      {
+        "index": 65,
+        "name": "sune_r",
+        "parent": 64,
+        "nextSibling": -1,
+        "firstChild": 66
+      },
+      {
+        "index": 66,
+        "name": "ashi_r",
+        "parent": 65,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "momo_l",
+        "parent": 3,
+        "nextSibling": 70,
+        "firstChild": 68
+      },
+      {
+        "index": 68,
+        "name": "sune_l",
+        "parent": 67,
+        "nextSibling": -1,
+        "firstChild": 69
+      },
+      {
+        "index": 69,
+        "name": "ashi_l",
+        "parent": 68,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 70,
+        "name": "skirt_r",
+        "parent": 3,
+        "nextSibling": 71,
+        "firstChild": -1
+      },
+      {
+        "index": 71,
+        "name": "skirt_l",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 72,
+        "name": "aim_center",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 73
+      },
+      {
+        "index": 73,
+        "name": "aim_target",
+        "parent": 72,
+        "nextSibling": -1,
+        "firstChild": 74
+      },
+      {
+        "index": 74,
+        "name": "light_target_l",
+        "parent": 73,
+        "nextSibling": 75,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "light_target_r",
+        "parent": 73,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/HEAVYARMOR.MRAB",
+    "model": "HeavyArmo_Lod2.mdb",
+    "modelSha256": "f9ffd91c2a587c351a8321ee6f87bb3fca2b871c9ddcd4fdec31257b5db4ff2f",
+    "boneTableCount": 76,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "HeavyArmor",
+        "parent": 0,
+        "nextSibling": 2,
+        "firstChild": -1
+      },
+      {
+        "index": 2,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 3
+      },
+      {
+        "index": 3,
+        "name": "koshi",
+        "parent": 2,
+        "nextSibling": 72,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "hara0",
+        "parent": 3,
+        "nextSibling": 64,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara1",
+        "parent": 4,
+        "nextSibling": 63,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara2",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "mune",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "frontArmor_over",
+        "parent": 7,
+        "nextSibling": 9,
+        "firstChild": -1
+      },
+      {
+        "index": 9,
+        "name": "kubi",
+        "parent": 7,
+        "nextSibling": 10,
+        "firstChild": -1
+      },
+      {
+        "index": 10,
+        "name": "kata_l",
+        "parent": 7,
+        "nextSibling": 28,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "jowan0_l",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "kawan0_l",
+        "parent": 11,
+        "nextSibling": 25,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "te_l",
+        "parent": 12,
+        "nextSibling": 24,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "thumb0_l",
+        "parent": 13,
+        "nextSibling": 16,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "thumb1_l",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "index0_l",
+        "parent": 13,
+        "nextSibling": 19,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "index1_l",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": 18
+      },
+      {
+        "index": 18,
+        "name": "index2_l",
+        "parent": 17,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 19,
+        "name": "otherFinger0_l",
+        "parent": 13,
+        "nextSibling": 22,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger1_l",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": 21
+      },
+      {
+        "index": 21,
+        "name": "otherFinger2_l",
+        "parent": 20,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "arms_l",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 23
+      },
+      {
+        "index": 23,
+        "name": "armsFlip_l",
+        "parent": 22,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 24,
+        "name": "armsLowerFlip_l",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_l",
+        "parent": 11,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_l",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 27
+      },
+      {
+        "index": 27,
+        "name": "armArmor0_l",
+        "parent": 26,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "kata_r",
+        "parent": 7,
+        "nextSibling": 46,
+        "firstChild": 29
+      },
+      {
+        "index": 29,
+        "name": "jowan0_r",
+        "parent": 28,
+        "nextSibling": -1,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "kawan0_r",
+        "parent": 29,
+        "nextSibling": 43,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "te_r",
+        "parent": 30,
+        "nextSibling": 42,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "thumb0_r",
+        "parent": 31,
+        "nextSibling": 34,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb1_r",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 34,
+        "name": "index0_r",
+        "parent": 31,
+        "nextSibling": 37,
+        "firstChild": 35
+      },
+      {
+        "index": 35,
+        "name": "index1_r",
+        "parent": 34,
+        "nextSibling": -1,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index2_r",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 37,
+        "name": "otherFinger0_r",
+        "parent": 31,
+        "nextSibling": 40,
+        "firstChild": 38
+      },
+      {
+        "index": 38,
+        "name": "otherFinger1_r",
+        "parent": 37,
+        "nextSibling": -1,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger2_r",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 40,
+        "name": "arms_r",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 41
+      },
+      {
+        "index": 41,
+        "name": "armsFlip_r",
+        "parent": 40,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "armsLowerFlip_r",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "jowan1_r",
+        "parent": 29,
+        "nextSibling": 44,
+        "firstChild": -1
+      },
+      {
+        "index": 44,
+        "name": "jowan2_r",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 45
+      },
+      {
+        "index": 45,
+        "name": "armArmor0_r",
+        "parent": 44,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "arm_ik_r",
+        "parent": 7,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "chain_base_r",
+        "parent": 7,
+        "nextSibling": 50,
+        "firstChild": 48
+      },
+      {
+        "index": 48,
+        "name": "chain0_r",
+        "parent": 47,
+        "nextSibling": -1,
+        "firstChild": 49
+      },
+      {
+        "index": 49,
+        "name": "chain1_r",
+        "parent": 48,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "chain_base_l",
+        "parent": 7,
+        "nextSibling": 53,
+        "firstChild": 51
+      },
+      {
+        "index": 51,
+        "name": "chain0_l",
+        "parent": 50,
+        "nextSibling": -1,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "chain1_l",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 53,
+        "name": "arm_ik_l",
+        "parent": 7,
+        "nextSibling": 54,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "backWeapon_r",
+        "parent": 7,
+        "nextSibling": 56,
+        "firstChild": 55
+      },
+      {
+        "index": 55,
+        "name": "backWeaponJoint_r",
+        "parent": 54,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "backWeapon_l",
+        "parent": 7,
+        "nextSibling": 58,
+        "firstChild": 57
+      },
+      {
+        "index": 57,
+        "name": "backWeaponJoint_l",
+        "parent": 56,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 58,
+        "name": "bCoverT",
+        "parent": 7,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "bCoverU",
+        "parent": 7,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster",
+        "parent": 7,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "light_l",
+        "parent": 7,
+        "nextSibling": 62,
+        "firstChild": -1
+      },
+      {
+        "index": 62,
+        "name": "light_r",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 63,
+        "name": "frontArmor_under",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 64,
+        "name": "momo_r",
+        "parent": 3,
+        "nextSibling": 67,
+        "firstChild": 65
+      },
+      {
+        "index": 65,
+        "name": "sune_r",
+        "parent": 64,
+        "nextSibling": -1,
+        "firstChild": 66
+      },
+      {
+        "index": 66,
+        "name": "ashi_r",
+        "parent": 65,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "momo_l",
+        "parent": 3,
+        "nextSibling": 70,
+        "firstChild": 68
+      },
+      {
+        "index": 68,
+        "name": "sune_l",
+        "parent": 67,
+        "nextSibling": -1,
+        "firstChild": 69
+      },
+      {
+        "index": 69,
+        "name": "ashi_l",
+        "parent": 68,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 70,
+        "name": "skirt_r",
+        "parent": 3,
+        "nextSibling": 71,
+        "firstChild": -1
+      },
+      {
+        "index": 71,
+        "name": "skirt_l",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 72,
+        "name": "aim_center",
+        "parent": 2,
+        "nextSibling": -1,
+        "firstChild": 73
+      },
+      {
+        "index": 73,
+        "name": "aim_target",
+        "parent": 72,
+        "nextSibling": -1,
+        "firstChild": 74
+      },
+      {
+        "index": 74,
+        "name": "light_target_l",
+        "parent": 73,
+        "nextSibling": 75,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "light_target_r",
+        "parent": 73,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/PALEWING.MRAB",
+    "model": "PaleWing.mdb",
+    "modelSha256": "81dfddd907b83ec1541152ab94d33172d9554278342a8a80e47556e8bfb7aecb",
+    "boneTableCount": 96,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "Palewing",
+        "parent": 0,
+        "nextSibling": 3,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "Head",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 3,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "koshi",
+        "parent": 3,
+        "nextSibling": 93,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara0",
+        "parent": 4,
+        "nextSibling": 75,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara1",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "hara2",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "mune",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kata_r",
+        "parent": 8,
+        "nextSibling": 29,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "jowan0_r",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "kawan0_r",
+        "parent": 10,
+        "nextSibling": 25,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_r",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "index0_r",
+        "parent": 12,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_r",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_r",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "thumb0_r",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "thumb1_r",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_r",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_r",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_r",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_r",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_r",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_r",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 24
+      },
+      {
+        "index": 24,
+        "name": "armArmor_r",
+        "parent": 23,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_r",
+        "parent": 10,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_r",
+        "parent": 10,
+        "nextSibling": 27,
+        "firstChild": -1
+      },
+      {
+        "index": 27,
+        "name": "shoulderArmor_r",
+        "parent": 10,
+        "nextSibling": 28,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "aux_arm_r",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 29,
+        "name": "kata_l",
+        "parent": 8,
+        "nextSibling": 49,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "jowan0_l",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "kawan0_l",
+        "parent": 30,
+        "nextSibling": 45,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "te_l",
+        "parent": 31,
+        "nextSibling": 42,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb0_l",
+        "parent": 32,
+        "nextSibling": 35,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "thumb1_l",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "index0_l",
+        "parent": 32,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index1_l",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "index2_l",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "otherFinger0_l",
+        "parent": 32,
+        "nextSibling": 41,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger1_l",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": 40
+      },
+      {
+        "index": 40,
+        "name": "otherFinger2_l",
+        "parent": 39,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "arms_l",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan1_l",
+        "parent": 31,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "kawan2_l",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor_l",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "jowan1_l",
+        "parent": 30,
+        "nextSibling": 46,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "jowan2_l",
+        "parent": 30,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "shoulderArmor_l",
+        "parent": 30,
+        "nextSibling": 48,
+        "firstChild": -1
+      },
+      {
+        "index": 48,
+        "name": "aux_arm_l",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 49,
+        "name": "breast_r",
+        "parent": 8,
+        "nextSibling": 50,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "breast_l",
+        "parent": 8,
+        "nextSibling": 51,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "kubi",
+        "parent": 8,
+        "nextSibling": 57,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "hair_rear0",
+        "parent": 51,
+        "nextSibling": 54,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "hair_rear1",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "hair_front_r",
+        "parent": 51,
+        "nextSibling": 55,
+        "firstChild": -1
+      },
+      {
+        "index": 55,
+        "name": "hair_front_l",
+        "parent": 51,
+        "nextSibling": 56,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "light",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "booster_center",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "booster_core",
+        "parent": 57,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "booster_nozzleT_r",
+        "parent": 57,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster_nozzleB_r",
+        "parent": 57,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "booster_joint0_r",
+        "parent": 57,
+        "nextSibling": 67,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "booster_joint1_r",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "booster_joint2_r",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": 64
+      },
+      {
+        "index": 64,
+        "name": "booster_wingMain_r",
+        "parent": 63,
+        "nextSibling": 65,
+        "firstChild": -1
+      },
+      {
+        "index": 65,
+        "name": "booster_wingTailT_r",
+        "parent": 63,
+        "nextSibling": 66,
+        "firstChild": -1
+      },
+      {
+        "index": 66,
+        "name": "booster_wingTailB_r",
+        "parent": 63,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "booster_nozzleT_l",
+        "parent": 57,
+        "nextSibling": 68,
+        "firstChild": -1
+      },
+      {
+        "index": 68,
+        "name": "booster_nozzleB_l",
+        "parent": 57,
+        "nextSibling": 69,
+        "firstChild": -1
+      },
+      {
+        "index": 69,
+        "name": "booster_joint0_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 70
+      },
+      {
+        "index": 70,
+        "name": "booster_joint1_l",
+        "parent": 69,
+        "nextSibling": -1,
+        "firstChild": 71
+      },
+      {
+        "index": 71,
+        "name": "booster_joint2_l",
+        "parent": 70,
+        "nextSibling": -1,
+        "firstChild": 72
+      },
+      {
+        "index": 72,
+        "name": "booster_wingMain_l",
+        "parent": 71,
+        "nextSibling": 73,
+        "firstChild": -1
+      },
+      {
+        "index": 73,
+        "name": "booster_wingTailT_l",
+        "parent": 71,
+        "nextSibling": 74,
+        "firstChild": -1
+      },
+      {
+        "index": 74,
+        "name": "booster_wingTailB_l",
+        "parent": 71,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "momo_r",
+        "parent": 4,
+        "nextSibling": 81,
+        "firstChild": 76
+      },
+      {
+        "index": 76,
+        "name": "sune_r",
+        "parent": 75,
+        "nextSibling": 80,
+        "firstChild": 77
+      },
+      {
+        "index": 77,
+        "name": "ashi_r",
+        "parent": 76,
+        "nextSibling": -1,
+        "firstChild": 78
+      },
+      {
+        "index": 78,
+        "name": "footPanel_r",
+        "parent": 77,
+        "nextSibling": 79,
+        "firstChild": -1
+      },
+      {
+        "index": 79,
+        "name": "footJoint_r",
+        "parent": 77,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 80,
+        "name": "aux_leg_r",
+        "parent": 75,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 81,
+        "name": "momo_l",
+        "parent": 4,
+        "nextSibling": 87,
+        "firstChild": 82
+      },
+      {
+        "index": 82,
+        "name": "sune_l",
+        "parent": 81,
+        "nextSibling": 86,
+        "firstChild": 83
+      },
+      {
+        "index": 83,
+        "name": "ashi_l",
+        "parent": 82,
+        "nextSibling": -1,
+        "firstChild": 84
+      },
+      {
+        "index": 84,
+        "name": "footPanel_l",
+        "parent": 83,
+        "nextSibling": 85,
+        "firstChild": -1
+      },
+      {
+        "index": 85,
+        "name": "footJoint_l",
+        "parent": 83,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 86,
+        "name": "aux_leg_l",
+        "parent": 81,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 87,
+        "name": "hip_r",
+        "parent": 4,
+        "nextSibling": 88,
+        "firstChild": -1
+      },
+      {
+        "index": 88,
+        "name": "hip_l",
+        "parent": 4,
+        "nextSibling": 89,
+        "firstChild": -1
+      },
+      {
+        "index": 89,
+        "name": "skirt_f",
+        "parent": 4,
+        "nextSibling": 90,
+        "firstChild": -1
+      },
+      {
+        "index": 90,
+        "name": "skirt_b",
+        "parent": 4,
+        "nextSibling": 91,
+        "firstChild": -1
+      },
+      {
+        "index": 91,
+        "name": "skirt_r",
+        "parent": 4,
+        "nextSibling": 92,
+        "firstChild": -1
+      },
+      {
+        "index": 92,
+        "name": "skirt_l",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 93,
+        "name": "aim_center",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 94
+      },
+      {
+        "index": 94,
+        "name": "aim_target",
+        "parent": 93,
+        "nextSibling": -1,
+        "firstChild": 95
+      },
+      {
+        "index": 95,
+        "name": "light_target",
+        "parent": 94,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/PALEWING.MRAB",
+    "model": "PaleWing_Lod1.mdb",
+    "modelSha256": "5e911c6f3d8d9c268ec84cb9974886bd04c6c7ed592dbfe932a8d24c1b698a02",
+    "boneTableCount": 96,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "Palewing",
+        "parent": 0,
+        "nextSibling": 3,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "Head",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 3,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "koshi",
+        "parent": 3,
+        "nextSibling": 93,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara0",
+        "parent": 4,
+        "nextSibling": 75,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara1",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "hara2",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "mune",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kata_r",
+        "parent": 8,
+        "nextSibling": 29,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "jowan0_r",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "kawan0_r",
+        "parent": 10,
+        "nextSibling": 25,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_r",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "index0_r",
+        "parent": 12,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_r",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_r",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "thumb0_r",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "thumb1_r",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_r",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_r",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_r",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_r",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_r",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_r",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 24
+      },
+      {
+        "index": 24,
+        "name": "armArmor_r",
+        "parent": 23,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_r",
+        "parent": 10,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_r",
+        "parent": 10,
+        "nextSibling": 27,
+        "firstChild": -1
+      },
+      {
+        "index": 27,
+        "name": "shoulderArmor_r",
+        "parent": 10,
+        "nextSibling": 28,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "aux_arm_r",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 29,
+        "name": "kata_l",
+        "parent": 8,
+        "nextSibling": 49,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "jowan0_l",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "kawan0_l",
+        "parent": 30,
+        "nextSibling": 45,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "te_l",
+        "parent": 31,
+        "nextSibling": 42,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb0_l",
+        "parent": 32,
+        "nextSibling": 35,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "thumb1_l",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "index0_l",
+        "parent": 32,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index1_l",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "index2_l",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "otherFinger0_l",
+        "parent": 32,
+        "nextSibling": 41,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger1_l",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": 40
+      },
+      {
+        "index": 40,
+        "name": "otherFinger2_l",
+        "parent": 39,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "arms_l",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan1_l",
+        "parent": 31,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "kawan2_l",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor_l",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "jowan1_l",
+        "parent": 30,
+        "nextSibling": 46,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "jowan2_l",
+        "parent": 30,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "shoulderArmor_l",
+        "parent": 30,
+        "nextSibling": 48,
+        "firstChild": -1
+      },
+      {
+        "index": 48,
+        "name": "aux_arm_l",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 49,
+        "name": "breast_r",
+        "parent": 8,
+        "nextSibling": 50,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "breast_l",
+        "parent": 8,
+        "nextSibling": 51,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "kubi",
+        "parent": 8,
+        "nextSibling": 57,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "hair_rear0",
+        "parent": 51,
+        "nextSibling": 54,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "hair_rear1",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "hair_front_r",
+        "parent": 51,
+        "nextSibling": 55,
+        "firstChild": -1
+      },
+      {
+        "index": 55,
+        "name": "hair_front_l",
+        "parent": 51,
+        "nextSibling": 56,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "light",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "booster_center",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "booster_core",
+        "parent": 57,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "booster_nozzleT_r",
+        "parent": 57,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster_nozzleB_r",
+        "parent": 57,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "booster_joint0_r",
+        "parent": 57,
+        "nextSibling": 67,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "booster_joint1_r",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "booster_joint2_r",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": 64
+      },
+      {
+        "index": 64,
+        "name": "booster_wingMain_r",
+        "parent": 63,
+        "nextSibling": 65,
+        "firstChild": -1
+      },
+      {
+        "index": 65,
+        "name": "booster_wingTailT_r",
+        "parent": 63,
+        "nextSibling": 66,
+        "firstChild": -1
+      },
+      {
+        "index": 66,
+        "name": "booster_wingTailB_r",
+        "parent": 63,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "booster_nozzleT_l",
+        "parent": 57,
+        "nextSibling": 68,
+        "firstChild": -1
+      },
+      {
+        "index": 68,
+        "name": "booster_nozzleB_l",
+        "parent": 57,
+        "nextSibling": 69,
+        "firstChild": -1
+      },
+      {
+        "index": 69,
+        "name": "booster_joint0_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 70
+      },
+      {
+        "index": 70,
+        "name": "booster_joint1_l",
+        "parent": 69,
+        "nextSibling": -1,
+        "firstChild": 71
+      },
+      {
+        "index": 71,
+        "name": "booster_joint2_l",
+        "parent": 70,
+        "nextSibling": -1,
+        "firstChild": 72
+      },
+      {
+        "index": 72,
+        "name": "booster_wingMain_l",
+        "parent": 71,
+        "nextSibling": 73,
+        "firstChild": -1
+      },
+      {
+        "index": 73,
+        "name": "booster_wingTailT_l",
+        "parent": 71,
+        "nextSibling": 74,
+        "firstChild": -1
+      },
+      {
+        "index": 74,
+        "name": "booster_wingTailB_l",
+        "parent": 71,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "momo_r",
+        "parent": 4,
+        "nextSibling": 81,
+        "firstChild": 76
+      },
+      {
+        "index": 76,
+        "name": "sune_r",
+        "parent": 75,
+        "nextSibling": 80,
+        "firstChild": 77
+      },
+      {
+        "index": 77,
+        "name": "ashi_r",
+        "parent": 76,
+        "nextSibling": -1,
+        "firstChild": 78
+      },
+      {
+        "index": 78,
+        "name": "footPanel_r",
+        "parent": 77,
+        "nextSibling": 79,
+        "firstChild": -1
+      },
+      {
+        "index": 79,
+        "name": "footJoint_r",
+        "parent": 77,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 80,
+        "name": "aux_leg_r",
+        "parent": 75,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 81,
+        "name": "momo_l",
+        "parent": 4,
+        "nextSibling": 87,
+        "firstChild": 82
+      },
+      {
+        "index": 82,
+        "name": "sune_l",
+        "parent": 81,
+        "nextSibling": 86,
+        "firstChild": 83
+      },
+      {
+        "index": 83,
+        "name": "ashi_l",
+        "parent": 82,
+        "nextSibling": -1,
+        "firstChild": 84
+      },
+      {
+        "index": 84,
+        "name": "footPanel_l",
+        "parent": 83,
+        "nextSibling": 85,
+        "firstChild": -1
+      },
+      {
+        "index": 85,
+        "name": "footJoint_l",
+        "parent": 83,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 86,
+        "name": "aux_leg_l",
+        "parent": 81,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 87,
+        "name": "hip_r",
+        "parent": 4,
+        "nextSibling": 88,
+        "firstChild": -1
+      },
+      {
+        "index": 88,
+        "name": "hip_l",
+        "parent": 4,
+        "nextSibling": 89,
+        "firstChild": -1
+      },
+      {
+        "index": 89,
+        "name": "skirt_f",
+        "parent": 4,
+        "nextSibling": 90,
+        "firstChild": -1
+      },
+      {
+        "index": 90,
+        "name": "skirt_b",
+        "parent": 4,
+        "nextSibling": 91,
+        "firstChild": -1
+      },
+      {
+        "index": 91,
+        "name": "skirt_r",
+        "parent": 4,
+        "nextSibling": 92,
+        "firstChild": -1
+      },
+      {
+        "index": 92,
+        "name": "skirt_l",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 93,
+        "name": "aim_center",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 94
+      },
+      {
+        "index": 94,
+        "name": "aim_target",
+        "parent": 93,
+        "nextSibling": -1,
+        "firstChild": 95
+      },
+      {
+        "index": 95,
+        "name": "light_target",
+        "parent": 94,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  },
+  {
+    "cpkMember": "OBJECT/PALEWING.MRAB",
+    "model": "PaleWing_Lod2.mdb",
+    "modelSha256": "0179de10f94c2fbf80008defc3a45affb44b8c1b9d0f36c1961f41cf7b2f9149",
+    "boneTableCount": 96,
+    "bones": [
+      {
+        "index": 0,
+        "name": "mdl",
+        "parent": -1,
+        "nextSibling": -1,
+        "firstChild": 1
+      },
+      {
+        "index": 1,
+        "name": "Palewing",
+        "parent": 0,
+        "nextSibling": 3,
+        "firstChild": 2
+      },
+      {
+        "index": 2,
+        "name": "Head",
+        "parent": 1,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 3,
+        "name": "globalSRT",
+        "parent": 0,
+        "nextSibling": -1,
+        "firstChild": 4
+      },
+      {
+        "index": 4,
+        "name": "koshi",
+        "parent": 3,
+        "nextSibling": 93,
+        "firstChild": 5
+      },
+      {
+        "index": 5,
+        "name": "hara0",
+        "parent": 4,
+        "nextSibling": 75,
+        "firstChild": 6
+      },
+      {
+        "index": 6,
+        "name": "hara1",
+        "parent": 5,
+        "nextSibling": -1,
+        "firstChild": 7
+      },
+      {
+        "index": 7,
+        "name": "hara2",
+        "parent": 6,
+        "nextSibling": -1,
+        "firstChild": 8
+      },
+      {
+        "index": 8,
+        "name": "mune",
+        "parent": 7,
+        "nextSibling": -1,
+        "firstChild": 9
+      },
+      {
+        "index": 9,
+        "name": "kata_r",
+        "parent": 8,
+        "nextSibling": 29,
+        "firstChild": 10
+      },
+      {
+        "index": 10,
+        "name": "jowan0_r",
+        "parent": 9,
+        "nextSibling": -1,
+        "firstChild": 11
+      },
+      {
+        "index": 11,
+        "name": "kawan0_r",
+        "parent": 10,
+        "nextSibling": 25,
+        "firstChild": 12
+      },
+      {
+        "index": 12,
+        "name": "te_r",
+        "parent": 11,
+        "nextSibling": 22,
+        "firstChild": 13
+      },
+      {
+        "index": 13,
+        "name": "index0_r",
+        "parent": 12,
+        "nextSibling": 16,
+        "firstChild": 14
+      },
+      {
+        "index": 14,
+        "name": "index1_r",
+        "parent": 13,
+        "nextSibling": -1,
+        "firstChild": 15
+      },
+      {
+        "index": 15,
+        "name": "index2_r",
+        "parent": 14,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 16,
+        "name": "thumb0_r",
+        "parent": 12,
+        "nextSibling": 18,
+        "firstChild": 17
+      },
+      {
+        "index": 17,
+        "name": "thumb1_r",
+        "parent": 16,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 18,
+        "name": "otherFinger0_r",
+        "parent": 12,
+        "nextSibling": 21,
+        "firstChild": 19
+      },
+      {
+        "index": 19,
+        "name": "otherFinger1_r",
+        "parent": 18,
+        "nextSibling": -1,
+        "firstChild": 20
+      },
+      {
+        "index": 20,
+        "name": "otherFinger2_r",
+        "parent": 19,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 21,
+        "name": "arms_r",
+        "parent": 12,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 22,
+        "name": "kawan1_r",
+        "parent": 11,
+        "nextSibling": 23,
+        "firstChild": -1
+      },
+      {
+        "index": 23,
+        "name": "kawan2_r",
+        "parent": 11,
+        "nextSibling": -1,
+        "firstChild": 24
+      },
+      {
+        "index": 24,
+        "name": "armArmor_r",
+        "parent": 23,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 25,
+        "name": "jowan1_r",
+        "parent": 10,
+        "nextSibling": 26,
+        "firstChild": -1
+      },
+      {
+        "index": 26,
+        "name": "jowan2_r",
+        "parent": 10,
+        "nextSibling": 27,
+        "firstChild": -1
+      },
+      {
+        "index": 27,
+        "name": "shoulderArmor_r",
+        "parent": 10,
+        "nextSibling": 28,
+        "firstChild": -1
+      },
+      {
+        "index": 28,
+        "name": "aux_arm_r",
+        "parent": 10,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 29,
+        "name": "kata_l",
+        "parent": 8,
+        "nextSibling": 49,
+        "firstChild": 30
+      },
+      {
+        "index": 30,
+        "name": "jowan0_l",
+        "parent": 29,
+        "nextSibling": -1,
+        "firstChild": 31
+      },
+      {
+        "index": 31,
+        "name": "kawan0_l",
+        "parent": 30,
+        "nextSibling": 45,
+        "firstChild": 32
+      },
+      {
+        "index": 32,
+        "name": "te_l",
+        "parent": 31,
+        "nextSibling": 42,
+        "firstChild": 33
+      },
+      {
+        "index": 33,
+        "name": "thumb0_l",
+        "parent": 32,
+        "nextSibling": 35,
+        "firstChild": 34
+      },
+      {
+        "index": 34,
+        "name": "thumb1_l",
+        "parent": 33,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 35,
+        "name": "index0_l",
+        "parent": 32,
+        "nextSibling": 38,
+        "firstChild": 36
+      },
+      {
+        "index": 36,
+        "name": "index1_l",
+        "parent": 35,
+        "nextSibling": -1,
+        "firstChild": 37
+      },
+      {
+        "index": 37,
+        "name": "index2_l",
+        "parent": 36,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 38,
+        "name": "otherFinger0_l",
+        "parent": 32,
+        "nextSibling": 41,
+        "firstChild": 39
+      },
+      {
+        "index": 39,
+        "name": "otherFinger1_l",
+        "parent": 38,
+        "nextSibling": -1,
+        "firstChild": 40
+      },
+      {
+        "index": 40,
+        "name": "otherFinger2_l",
+        "parent": 39,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 41,
+        "name": "arms_l",
+        "parent": 32,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 42,
+        "name": "kawan1_l",
+        "parent": 31,
+        "nextSibling": 43,
+        "firstChild": -1
+      },
+      {
+        "index": 43,
+        "name": "kawan2_l",
+        "parent": 31,
+        "nextSibling": -1,
+        "firstChild": 44
+      },
+      {
+        "index": 44,
+        "name": "armArmor_l",
+        "parent": 43,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 45,
+        "name": "jowan1_l",
+        "parent": 30,
+        "nextSibling": 46,
+        "firstChild": -1
+      },
+      {
+        "index": 46,
+        "name": "jowan2_l",
+        "parent": 30,
+        "nextSibling": 47,
+        "firstChild": -1
+      },
+      {
+        "index": 47,
+        "name": "shoulderArmor_l",
+        "parent": 30,
+        "nextSibling": 48,
+        "firstChild": -1
+      },
+      {
+        "index": 48,
+        "name": "aux_arm_l",
+        "parent": 30,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 49,
+        "name": "breast_r",
+        "parent": 8,
+        "nextSibling": 50,
+        "firstChild": -1
+      },
+      {
+        "index": 50,
+        "name": "breast_l",
+        "parent": 8,
+        "nextSibling": 51,
+        "firstChild": -1
+      },
+      {
+        "index": 51,
+        "name": "kubi",
+        "parent": 8,
+        "nextSibling": 57,
+        "firstChild": 52
+      },
+      {
+        "index": 52,
+        "name": "hair_rear0",
+        "parent": 51,
+        "nextSibling": 54,
+        "firstChild": 53
+      },
+      {
+        "index": 53,
+        "name": "hair_rear1",
+        "parent": 52,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 54,
+        "name": "hair_front_r",
+        "parent": 51,
+        "nextSibling": 55,
+        "firstChild": -1
+      },
+      {
+        "index": 55,
+        "name": "hair_front_l",
+        "parent": 51,
+        "nextSibling": 56,
+        "firstChild": -1
+      },
+      {
+        "index": 56,
+        "name": "light",
+        "parent": 51,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 57,
+        "name": "booster_center",
+        "parent": 8,
+        "nextSibling": -1,
+        "firstChild": 58
+      },
+      {
+        "index": 58,
+        "name": "booster_core",
+        "parent": 57,
+        "nextSibling": 59,
+        "firstChild": -1
+      },
+      {
+        "index": 59,
+        "name": "booster_nozzleT_r",
+        "parent": 57,
+        "nextSibling": 60,
+        "firstChild": -1
+      },
+      {
+        "index": 60,
+        "name": "booster_nozzleB_r",
+        "parent": 57,
+        "nextSibling": 61,
+        "firstChild": -1
+      },
+      {
+        "index": 61,
+        "name": "booster_joint0_r",
+        "parent": 57,
+        "nextSibling": 67,
+        "firstChild": 62
+      },
+      {
+        "index": 62,
+        "name": "booster_joint1_r",
+        "parent": 61,
+        "nextSibling": -1,
+        "firstChild": 63
+      },
+      {
+        "index": 63,
+        "name": "booster_joint2_r",
+        "parent": 62,
+        "nextSibling": -1,
+        "firstChild": 64
+      },
+      {
+        "index": 64,
+        "name": "booster_wingMain_r",
+        "parent": 63,
+        "nextSibling": 65,
+        "firstChild": -1
+      },
+      {
+        "index": 65,
+        "name": "booster_wingTailT_r",
+        "parent": 63,
+        "nextSibling": 66,
+        "firstChild": -1
+      },
+      {
+        "index": 66,
+        "name": "booster_wingTailB_r",
+        "parent": 63,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 67,
+        "name": "booster_nozzleT_l",
+        "parent": 57,
+        "nextSibling": 68,
+        "firstChild": -1
+      },
+      {
+        "index": 68,
+        "name": "booster_nozzleB_l",
+        "parent": 57,
+        "nextSibling": 69,
+        "firstChild": -1
+      },
+      {
+        "index": 69,
+        "name": "booster_joint0_l",
+        "parent": 57,
+        "nextSibling": -1,
+        "firstChild": 70
+      },
+      {
+        "index": 70,
+        "name": "booster_joint1_l",
+        "parent": 69,
+        "nextSibling": -1,
+        "firstChild": 71
+      },
+      {
+        "index": 71,
+        "name": "booster_joint2_l",
+        "parent": 70,
+        "nextSibling": -1,
+        "firstChild": 72
+      },
+      {
+        "index": 72,
+        "name": "booster_wingMain_l",
+        "parent": 71,
+        "nextSibling": 73,
+        "firstChild": -1
+      },
+      {
+        "index": 73,
+        "name": "booster_wingTailT_l",
+        "parent": 71,
+        "nextSibling": 74,
+        "firstChild": -1
+      },
+      {
+        "index": 74,
+        "name": "booster_wingTailB_l",
+        "parent": 71,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 75,
+        "name": "momo_r",
+        "parent": 4,
+        "nextSibling": 81,
+        "firstChild": 76
+      },
+      {
+        "index": 76,
+        "name": "sune_r",
+        "parent": 75,
+        "nextSibling": 80,
+        "firstChild": 77
+      },
+      {
+        "index": 77,
+        "name": "ashi_r",
+        "parent": 76,
+        "nextSibling": -1,
+        "firstChild": 78
+      },
+      {
+        "index": 78,
+        "name": "footPanel_r",
+        "parent": 77,
+        "nextSibling": 79,
+        "firstChild": -1
+      },
+      {
+        "index": 79,
+        "name": "footJoint_r",
+        "parent": 77,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 80,
+        "name": "aux_leg_r",
+        "parent": 75,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 81,
+        "name": "momo_l",
+        "parent": 4,
+        "nextSibling": 87,
+        "firstChild": 82
+      },
+      {
+        "index": 82,
+        "name": "sune_l",
+        "parent": 81,
+        "nextSibling": 86,
+        "firstChild": 83
+      },
+      {
+        "index": 83,
+        "name": "ashi_l",
+        "parent": 82,
+        "nextSibling": -1,
+        "firstChild": 84
+      },
+      {
+        "index": 84,
+        "name": "footPanel_l",
+        "parent": 83,
+        "nextSibling": 85,
+        "firstChild": -1
+      },
+      {
+        "index": 85,
+        "name": "footJoint_l",
+        "parent": 83,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 86,
+        "name": "aux_leg_l",
+        "parent": 81,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 87,
+        "name": "hip_r",
+        "parent": 4,
+        "nextSibling": 88,
+        "firstChild": -1
+      },
+      {
+        "index": 88,
+        "name": "hip_l",
+        "parent": 4,
+        "nextSibling": 89,
+        "firstChild": -1
+      },
+      {
+        "index": 89,
+        "name": "skirt_f",
+        "parent": 4,
+        "nextSibling": 90,
+        "firstChild": -1
+      },
+      {
+        "index": 90,
+        "name": "skirt_b",
+        "parent": 4,
+        "nextSibling": 91,
+        "firstChild": -1
+      },
+      {
+        "index": 91,
+        "name": "skirt_r",
+        "parent": 4,
+        "nextSibling": 92,
+        "firstChild": -1
+      },
+      {
+        "index": 92,
+        "name": "skirt_l",
+        "parent": 4,
+        "nextSibling": -1,
+        "firstChild": -1
+      },
+      {
+        "index": 93,
+        "name": "aim_center",
+        "parent": 3,
+        "nextSibling": -1,
+        "firstChild": 94
+      },
+      {
+        "index": 94,
+        "name": "aim_target",
+        "parent": 93,
+        "nextSibling": -1,
+        "firstChild": 95
+      },
+      {
+        "index": 95,
+        "name": "light_target",
+        "parent": 94,
+        "nextSibling": -1,
+        "firstChild": -1
+      }
+    ]
+  }
+]

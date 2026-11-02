@@ -1,0 +1,4 @@
+{
+  "result": "base=7FF7A2250000 scene=25135941AD0 camera=251728370A0 actor=251722C6DF0 component=251722C7340 nodes=251686E1080 count=96\ncameraState=7FF7A232F5B0 vehicle=0 seat=0\ncamera[170]=-77.4353 3.5594 519.0366\ncamera[60]=-76.9114 1.6050 517.1818\nnode[2] Head parent=1 pos=-76.9236 0.0500 517.3300\nnode[51] kubi parent=8 pos=-76.9043 1.4550 517.1580\nnode[52] hair_rear0 parent=51 pos=-76.9233 1.5104 517.1700\nnode[53] hair_rear1 parent=52 pos=-76.9558 1.4868 517.2021\nnode[54] hair_front_r parent=51 pos=-76.8410 1.4311 517.1532\nnode[55] hair_front_l parent=51 pos=-76.9146 1.4168 517.1028\nbaseDraw=251722C7470 skeleton=251722C73B0 palette=25171EE2520 groups=2\nLODs=2 distance=1.2159\nlod0=25171EE3F90 skeleton=251722C73B0 palette=25171EE2520 groups=2\nlod1=25171EE4080 skeleton=251722C73B0 palette=25171EE2520 groups=2",
+  "success": true
+}

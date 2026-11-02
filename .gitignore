@@ -1,0 +1,14 @@
+# Publish only the two mod projects and repository documentation.
+/*
+!/.gitignore
+!/README.md
+!/FPS/
+!/MenuMouse/
+
+/FPS/build/
+/FPS/dist/
+/FPS/backups/
+/MenuMouse/build/
+**/__pycache__/
+*.pyc
+*.log

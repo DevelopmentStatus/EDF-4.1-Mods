@@ -1,0 +1,1054 @@
+[
+  {
+    "model": "Engineer.mdb",
+    "size": 948378,
+    "materials": [
+      "metal",
+      "metal-rev",
+      "rikusen",
+      "met",
+      "rikusen-face",
+      "EngineerBackpack",
+      "rikusen-rev",
+      "met_Translucent"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 64,
+        "nodeName": "Engineer",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "metal",
+            "vertexCount": 1529,
+            "indexCount": 6312
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "met",
+            "vertexCount": 1227,
+            "indexCount": 3516
+          },
+          {
+            "index": 2,
+            "materialIndex": 2,
+            "material": "rikusen",
+            "vertexCount": 4258,
+            "indexCount": 18924
+          },
+          {
+            "index": 3,
+            "materialIndex": 1,
+            "material": "metal-rev",
+            "vertexCount": 570,
+            "indexCount": 2220
+          },
+          {
+            "index": 4,
+            "materialIndex": 4,
+            "material": "rikusen-face",
+            "vertexCount": 1173,
+            "indexCount": 6132
+          },
+          {
+            "index": 5,
+            "materialIndex": 7,
+            "material": "met_Translucent",
+            "vertexCount": 202,
+            "indexCount": 792
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen-rev",
+            "vertexCount": 2255,
+            "indexCount": 9180
+          },
+          {
+            "index": 7,
+            "materialIndex": 5,
+            "material": "EngineerBackpack",
+            "vertexCount": 2458,
+            "indexCount": 6276
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Engineer_Lod1.mdb",
+    "size": 416124,
+    "materials": [
+      "metal",
+      "metal-rev",
+      "rikusen",
+      "met",
+      "rikusen-face",
+      "EngineerBackpack",
+      "rikusen-rev",
+      "met_Translucent"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 64,
+        "nodeName": "Engineer",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "metal",
+            "vertexCount": 559,
+            "indexCount": 1518
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "met",
+            "vertexCount": 756,
+            "indexCount": 1575
+          },
+          {
+            "index": 2,
+            "materialIndex": 2,
+            "material": "rikusen",
+            "vertexCount": 1672,
+            "indexCount": 4812
+          },
+          {
+            "index": 3,
+            "materialIndex": 1,
+            "material": "metal-rev",
+            "vertexCount": 205,
+            "indexCount": 537
+          },
+          {
+            "index": 4,
+            "materialIndex": 4,
+            "material": "rikusen-face",
+            "vertexCount": 58,
+            "indexCount": 126
+          },
+          {
+            "index": 5,
+            "materialIndex": 7,
+            "material": "met_Translucent",
+            "vertexCount": 75,
+            "indexCount": 216
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen-rev",
+            "vertexCount": 971,
+            "indexCount": 2310
+          },
+          {
+            "index": 7,
+            "materialIndex": 5,
+            "material": "EngineerBackpack",
+            "vertexCount": 1794,
+            "indexCount": 3594
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "Engineer_Lod2.mdb",
+    "size": 180528,
+    "materials": [
+      "metal",
+      "metal-rev",
+      "rikusen",
+      "met",
+      "rikusen-face",
+      "EngineerBackpack",
+      "rikusen-rev",
+      "met_Translucent"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 64,
+        "nodeName": "Engineer",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "metal",
+            "vertexCount": 229,
+            "indexCount": 546
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "met",
+            "vertexCount": 196,
+            "indexCount": 339
+          },
+          {
+            "index": 2,
+            "materialIndex": 2,
+            "material": "rikusen",
+            "vertexCount": 785,
+            "indexCount": 1905
+          },
+          {
+            "index": 3,
+            "materialIndex": 1,
+            "material": "metal-rev",
+            "vertexCount": 123,
+            "indexCount": 273
+          },
+          {
+            "index": 4,
+            "materialIndex": 4,
+            "material": "rikusen-face",
+            "vertexCount": 34,
+            "indexCount": 54
+          },
+          {
+            "index": 5,
+            "materialIndex": 7,
+            "material": "met_Translucent",
+            "vertexCount": 75,
+            "indexCount": 216
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen-rev",
+            "vertexCount": 470,
+            "indexCount": 774
+          },
+          {
+            "index": 7,
+            "materialIndex": 5,
+            "material": "EngineerBackpack",
+            "vertexCount": 573,
+            "indexCount": 921
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ArmySoldier.mdb",
+    "size": 963442,
+    "materials": [
+      "rikusen-face",
+      "rikusen-rev",
+      "metal",
+      "met_Translucent",
+      "met",
+      "metal-rev",
+      "rikusen"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 62,
+        "nodeName": "ArmySoldier",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "rikusen-face",
+            "vertexCount": 1350,
+            "indexCount": 6672
+          },
+          {
+            "index": 1,
+            "materialIndex": 2,
+            "material": "metal",
+            "vertexCount": 2190,
+            "indexCount": 8412
+          },
+          {
+            "index": 2,
+            "materialIndex": 1,
+            "material": "rikusen-rev",
+            "vertexCount": 3511,
+            "indexCount": 11484
+          },
+          {
+            "index": 3,
+            "materialIndex": 3,
+            "material": "met_Translucent",
+            "vertexCount": 57,
+            "indexCount": 216
+          },
+          {
+            "index": 4,
+            "materialIndex": 5,
+            "material": "metal-rev",
+            "vertexCount": 627,
+            "indexCount": 2220
+          },
+          {
+            "index": 5,
+            "materialIndex": 4,
+            "material": "met",
+            "vertexCount": 666,
+            "indexCount": 2586
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen",
+            "vertexCount": 5567,
+            "indexCount": 21228
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ArmySoldier_Lod1.mdb",
+    "size": 480700,
+    "materials": [
+      "rikusen-face",
+      "rikusen-rev",
+      "metal",
+      "met_Translucent",
+      "met",
+      "metal-rev",
+      "rikusen"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 62,
+        "nodeName": "ArmySoldier",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "rikusen-face",
+            "vertexCount": 681,
+            "indexCount": 816
+          },
+          {
+            "index": 1,
+            "materialIndex": 2,
+            "material": "metal",
+            "vertexCount": 1031,
+            "indexCount": 2085
+          },
+          {
+            "index": 2,
+            "materialIndex": 1,
+            "material": "rikusen-rev",
+            "vertexCount": 1524,
+            "indexCount": 2232
+          },
+          {
+            "index": 3,
+            "materialIndex": 3,
+            "material": "met_Translucent",
+            "vertexCount": 27,
+            "indexCount": 42
+          },
+          {
+            "index": 4,
+            "materialIndex": 5,
+            "material": "metal-rev",
+            "vertexCount": 264,
+            "indexCount": 564
+          },
+          {
+            "index": 5,
+            "materialIndex": 4,
+            "material": "met",
+            "vertexCount": 353,
+            "indexCount": 705
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen",
+            "vertexCount": 3378,
+            "indexCount": 6282
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "ArmySoldier_Lod2.mdb",
+    "size": 284944,
+    "materials": [
+      "rikusen-face",
+      "rikusen-rev",
+      "metal",
+      "met_Translucent",
+      "met",
+      "metal-rev",
+      "rikusen"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 62,
+        "nodeName": "ArmySoldier",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "rikusen-face",
+            "vertexCount": 243,
+            "indexCount": 255
+          },
+          {
+            "index": 1,
+            "materialIndex": 2,
+            "material": "metal",
+            "vertexCount": 633,
+            "indexCount": 1050
+          },
+          {
+            "index": 2,
+            "materialIndex": 1,
+            "material": "rikusen-rev",
+            "vertexCount": 700,
+            "indexCount": 870
+          },
+          {
+            "index": 3,
+            "materialIndex": 3,
+            "material": "met_Translucent",
+            "vertexCount": 21,
+            "indexCount": 24
+          },
+          {
+            "index": 4,
+            "materialIndex": 5,
+            "material": "metal-rev",
+            "vertexCount": 196,
+            "indexCount": 336
+          },
+          {
+            "index": 5,
+            "materialIndex": 4,
+            "material": "met",
+            "vertexCount": 233,
+            "indexCount": 342
+          },
+          {
+            "index": 6,
+            "materialIndex": 6,
+            "material": "rikusen",
+            "vertexCount": 2187,
+            "indexCount": 3312
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "HeavyArmor.mdb",
+    "size": 1054458,
+    "materials": [
+      "head3",
+      "backpack-rev",
+      "heavyrev",
+      "backpack1",
+      "heavy-metal",
+      "heavy",
+      "heavy-matalrev",
+      "eye",
+      "right_shoulder",
+      ""
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "HeavyArmor",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": -1,
+            "material": null,
+            "vertexCount": 8,
+            "indexCount": 12
+          },
+          {
+            "index": 1,
+            "materialIndex": 7,
+            "material": "eye",
+            "vertexCount": 18,
+            "indexCount": 48
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "right_shoulder",
+            "vertexCount": 313,
+            "indexCount": 1164
+          },
+          {
+            "index": 3,
+            "materialIndex": 0,
+            "material": "head3",
+            "vertexCount": 422,
+            "indexCount": 1494
+          },
+          {
+            "index": 4,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 392,
+            "indexCount": 1062
+          },
+          {
+            "index": 5,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 1066,
+            "indexCount": 3036
+          },
+          {
+            "index": 6,
+            "materialIndex": 1,
+            "material": "backpack-rev",
+            "vertexCount": 263,
+            "indexCount": 624
+          },
+          {
+            "index": 7,
+            "materialIndex": 3,
+            "material": "backpack1",
+            "vertexCount": 3088,
+            "indexCount": 10626
+          },
+          {
+            "index": 8,
+            "materialIndex": 6,
+            "material": "heavy-matalrev",
+            "vertexCount": 1382,
+            "indexCount": 4992
+          },
+          {
+            "index": 9,
+            "materialIndex": 5,
+            "material": "heavy",
+            "vertexCount": 2028,
+            "indexCount": 7671
+          },
+          {
+            "index": 10,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 1084,
+            "indexCount": 3522
+          },
+          {
+            "index": 11,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 5290,
+            "indexCount": 20286
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "HeavyArmo_Lod1.mdb",
+    "size": 638808,
+    "materials": [
+      "head3",
+      "backpack-rev",
+      "heavyrev",
+      "backpack1",
+      "heavy-metal",
+      "heavy",
+      "heavy-matalrev",
+      "eye",
+      "right_shoulder",
+      ""
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "HeavyArmor",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": -1,
+            "material": null,
+            "vertexCount": 4,
+            "indexCount": 6
+          },
+          {
+            "index": 1,
+            "materialIndex": 7,
+            "material": "eye",
+            "vertexCount": 18,
+            "indexCount": 48
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "right_shoulder",
+            "vertexCount": 157,
+            "indexCount": 342
+          },
+          {
+            "index": 3,
+            "materialIndex": 0,
+            "material": "head3",
+            "vertexCount": 370,
+            "indexCount": 1116
+          },
+          {
+            "index": 4,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 147,
+            "indexCount": 210
+          },
+          {
+            "index": 5,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 449,
+            "indexCount": 696
+          },
+          {
+            "index": 6,
+            "materialIndex": 1,
+            "material": "backpack-rev",
+            "vertexCount": 154,
+            "indexCount": 360
+          },
+          {
+            "index": 7,
+            "materialIndex": 3,
+            "material": "backpack1",
+            "vertexCount": 2351,
+            "indexCount": 5940
+          },
+          {
+            "index": 8,
+            "materialIndex": 6,
+            "material": "heavy-matalrev",
+            "vertexCount": 894,
+            "indexCount": 1638
+          },
+          {
+            "index": 9,
+            "materialIndex": 5,
+            "material": "heavy",
+            "vertexCount": 1500,
+            "indexCount": 2520
+          },
+          {
+            "index": 10,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 603,
+            "indexCount": 1095
+          },
+          {
+            "index": 11,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 2942,
+            "indexCount": 5517
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "HeavyArmo_Lod2.mdb",
+    "size": 311380,
+    "materials": [
+      "head3",
+      "backpack-rev",
+      "heavyrev",
+      "backpack1",
+      "heavy-metal",
+      "heavy",
+      "heavy-matalrev",
+      "eye",
+      "right_shoulder",
+      ""
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "HeavyArmor",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": -1,
+            "material": null,
+            "vertexCount": 3,
+            "indexCount": 3
+          },
+          {
+            "index": 1,
+            "materialIndex": 7,
+            "material": "eye",
+            "vertexCount": 9,
+            "indexCount": 9
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "right_shoulder",
+            "vertexCount": 99,
+            "indexCount": 192
+          },
+          {
+            "index": 3,
+            "materialIndex": 0,
+            "material": "head3",
+            "vertexCount": 178,
+            "indexCount": 243
+          },
+          {
+            "index": 4,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 77,
+            "indexCount": 96
+          },
+          {
+            "index": 5,
+            "materialIndex": 2,
+            "material": "heavyrev",
+            "vertexCount": 252,
+            "indexCount": 408
+          },
+          {
+            "index": 6,
+            "materialIndex": 1,
+            "material": "backpack-rev",
+            "vertexCount": 46,
+            "indexCount": 66
+          },
+          {
+            "index": 7,
+            "materialIndex": 3,
+            "material": "backpack1",
+            "vertexCount": 470,
+            "indexCount": 720
+          },
+          {
+            "index": 8,
+            "materialIndex": 6,
+            "material": "heavy-matalrev",
+            "vertexCount": 531,
+            "indexCount": 813
+          },
+          {
+            "index": 9,
+            "materialIndex": 5,
+            "material": "heavy",
+            "vertexCount": 983,
+            "indexCount": 1395
+          },
+          {
+            "index": 10,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 268,
+            "indexCount": 378
+          },
+          {
+            "index": 11,
+            "materialIndex": 4,
+            "material": "heavy-metal",
+            "vertexCount": 1626,
+            "indexCount": 2895
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "PaleWing.mdb",
+    "size": 1151444,
+    "materials": [
+      "met_Translucent",
+      "hair",
+      "eye",
+      "head-rev",
+      "head",
+      "palewing",
+      "palewing-back-r",
+      "palewingrevers",
+      "palewing-back"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "Palewing",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 5,
+            "material": "palewing",
+            "vertexCount": 6409,
+            "indexCount": 25428
+          },
+          {
+            "index": 1,
+            "materialIndex": 6,
+            "material": "palewing-back-r",
+            "vertexCount": 700,
+            "indexCount": 2412
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "palewing-back",
+            "vertexCount": 1135,
+            "indexCount": 3846
+          },
+          {
+            "index": 3,
+            "materialIndex": 7,
+            "material": "palewingrevers",
+            "vertexCount": 4632,
+            "indexCount": 16668
+          }
+        ]
+      },
+      {
+        "meshIndex": 1,
+        "nodeIndex": 2,
+        "nodeName": "Head",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "met_Translucent",
+            "vertexCount": 201,
+            "indexCount": 660
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "head-rev",
+            "vertexCount": 204,
+            "indexCount": 534
+          },
+          {
+            "index": 2,
+            "materialIndex": 2,
+            "material": "eye",
+            "vertexCount": 112,
+            "indexCount": 504
+          },
+          {
+            "index": 3,
+            "materialIndex": 1,
+            "material": "hair",
+            "vertexCount": 1008,
+            "indexCount": 4224
+          },
+          {
+            "index": 4,
+            "materialIndex": 4,
+            "material": "head",
+            "vertexCount": 2169,
+            "indexCount": 9798
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "PaleWing_Lod1.mdb",
+    "size": 489398,
+    "materials": [
+      "met_Translucent",
+      "hair",
+      "eye",
+      "head-rev",
+      "head",
+      "palewing",
+      "palewing-back-r",
+      "palewingrevers",
+      "palewing-back"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "Palewing",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 5,
+            "material": "palewing",
+            "vertexCount": 2678,
+            "indexCount": 6552
+          },
+          {
+            "index": 1,
+            "materialIndex": 6,
+            "material": "palewing-back-r",
+            "vertexCount": 361,
+            "indexCount": 750
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "palewing-back",
+            "vertexCount": 625,
+            "indexCount": 1302
+          },
+          {
+            "index": 3,
+            "materialIndex": 7,
+            "material": "palewingrevers",
+            "vertexCount": 2120,
+            "indexCount": 4704
+          }
+        ]
+      },
+      {
+        "meshIndex": 1,
+        "nodeIndex": 2,
+        "nodeName": "Head",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "met_Translucent",
+            "vertexCount": 122,
+            "indexCount": 306
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "head-rev",
+            "vertexCount": 136,
+            "indexCount": 339
+          },
+          {
+            "index": 2,
+            "materialIndex": 2,
+            "material": "eye",
+            "vertexCount": 72,
+            "indexCount": 132
+          },
+          {
+            "index": 3,
+            "materialIndex": 1,
+            "material": "hair",
+            "vertexCount": 222,
+            "indexCount": 585
+          },
+          {
+            "index": 4,
+            "materialIndex": 4,
+            "material": "head",
+            "vertexCount": 773,
+            "indexCount": 2196
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "model": "PaleWing_Lod2.mdb",
+    "size": 433582,
+    "materials": [
+      "met_Translucent",
+      "hair",
+      "eye",
+      "head-rev",
+      "head",
+      "palewing",
+      "palewing-back-r",
+      "palewingrevers",
+      "palewing-back"
+    ],
+    "meshes": [
+      {
+        "meshIndex": 0,
+        "nodeIndex": 1,
+        "nodeName": "Palewing",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 5,
+            "material": "palewing",
+            "vertexCount": 2477,
+            "indexCount": 6189
+          },
+          {
+            "index": 1,
+            "materialIndex": 6,
+            "material": "palewing-back-r",
+            "vertexCount": 322,
+            "indexCount": 672
+          },
+          {
+            "index": 2,
+            "materialIndex": 8,
+            "material": "palewing-back",
+            "vertexCount": 588,
+            "indexCount": 1224
+          },
+          {
+            "index": 3,
+            "materialIndex": 7,
+            "material": "palewingrevers",
+            "vertexCount": 1918,
+            "indexCount": 4341
+          }
+        ]
+      },
+      {
+        "meshIndex": 1,
+        "nodeIndex": 2,
+        "nodeName": "Head",
+        "submeshes": [
+          {
+            "index": 0,
+            "materialIndex": 0,
+            "material": "met_Translucent",
+            "vertexCount": 122,
+            "indexCount": 306
+          },
+          {
+            "index": 1,
+            "materialIndex": 3,
+            "material": "head-rev",
+            "vertexCount": 44,
+            "indexCount": 87
+          },
+          {
+            "index": 2,
+            "materialIndex": 1,
+            "material": "hair",
+            "vertexCount": 222,
+            "indexCount": 585
+          },
+          {
+            "index": 3,
+            "materialIndex": 4,
+            "material": "head",
+            "vertexCount": 555,
+            "indexCount": 1470
+          }
+        ]
+      }
+    ]
+  }
+]
