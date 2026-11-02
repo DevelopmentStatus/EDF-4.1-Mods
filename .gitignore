@@ -9,6 +9,12 @@
 /FPS/dist/
 /FPS/backups/
 /MenuMouse/build/
+# This local dependency has its own Git checkout. Publish the source/license
+# used by our CMake build, without its unrelated upstream project files.
+/MenuMouse/third_party/minhook/*
+!/MenuMouse/third_party/minhook/LICENSE.txt
+!/MenuMouse/third_party/minhook/include/
+!/MenuMouse/third_party/minhook/src/
 **/__pycache__/
 *.pyc
 *.log
