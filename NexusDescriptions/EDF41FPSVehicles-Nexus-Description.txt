@@ -1,0 +1,93 @@
+EDF41FPSVehicles - Full Body First Person and Vehicle Cockpit View
+Version 0.1.4 (Experimental)
+By DevelopmentStatus
+
+SHORT DESCRIPTION
+Full-body first person on foot and in vehicles. Ride bikes in first person, see through enclosed vehicle hulls, and use cockpit-height mech views with a camera that rolls with the vehicle on walls and ceilings.
+
+MAIN DESCRIPTION
+
+[b]First person on foot and behind the controls[/b]
+
+EDF41FPSVehicles is a separate, experimental vehicle-enabled variant of EDF41FPS for Earth Defense Force 4.1: The Shadow of New Despair on Steam PC. It keeps the animated head camera, visible body and head/helmet/hair hiding of the original FPS mod, and adds first-person vehicle views.
+
+[b]Install this OR the original EDF41FPS, never both.[/b] The two plugins replace the same camera and rendering routines. This download has its own DLL, INI, log and release version; it does not replace the original mod's release.
+
+[b]Features[/b]
+[list]
+[*]On foot: animated head-position camera, visible body and a smooth look-down offset.
+[*]Bikes: first person at the rider's head while the bike stays opaque.
+[*]Enclosed vehicles: first-person driver views with the occupied hull at 25% opacity by default.
+[*]Vehicle-relative rotation: the camera and eye offsets follow the chassis onto walls and ceilings, including crawler rotations.
+[*]Mech cockpit camera: uses the vehicle's model camera attachment near the torso/cockpit rather than the hidden infantry pilot near the feet.
+[*]Grape passengers retain the game's built-in first-person view and ordinary opaque hull; the driver still uses the mod.
+[*]C, F6 or a controller stick-click hold toggles the mod's first/third-person view on foot and in supported vehicle seats.
+[*]Version 0.1.4 corrects orientation history that could leave the first vehicle entry upside down.
+[*]Configurable opacity, cockpit offsets, vehicle-relative rotation, field of view and controller controls.
+[/list]
+
+Supported implementation targets include bikes, tanks and heavy tanks, rescue/rocket/striker vehicles, helicopters, Grape, Vegalta and the larger robot/crawler classes. Unknown types, invalid seats, death and unsupported camera states keep the normal game view. The game may hide the driver model in enclosed seats; this mod does not force it to appear.
+
+[b]Controls[/b]
+[list]
+[*]C or F6: toggle first/third person.
+[*]Controller: hold left-stick click (L3) for 0.7 seconds, then release before toggling again.
+[/list]
+The game must have focus. Controller support uses XInput; Steam Input must present an Xbox/XInput controller. The stick hold observes input without consuming it, so any existing game binding on that button still acts. Grape passenger seats always retain their native camera.
+
+[b]Requirements[/b]
+[list]
+[*]Earth Defense Force 4.1: The Shadow of New Despair, Steam PC x64.
+[*][url=https://github.com/BlueAmulet/EDFModLoader]EDFModLoader[/url].
+[/list]
+The supported EDF41.exe SHA-256 is:
+39b4abf7fe722175741a5e0a154063b27ef8c589a1aa5f86c84853571ac7bda8
+Other executable builds are rejected before installing hooks.
+
+[b]Installation[/b]
+[list=1]
+[*]Close the game.
+[*]Install EDFModLoader in the folder containing EDF41.exe, following the loader's instructions.
+[*]If using the original FPS mod, back up and remove EDF41FPS.dll from Mods\Plugins. Keep its INI if you may switch back.
+[*]Extract this download and merge its Mods folder into the game folder.
+[*]Confirm EDF41FPSVehicles.dll and EDF41FPSVehicles.ini are in Mods\Plugins.
+[*]Start a solo offline mission. Use C, F6 or the controller hold to toggle perspective.
+[/list]
+No game archives or saves are modified.
+
+[b]Configuration[/b]
+Edit Mods\Plugins\EDF41FPSVehicles.ini with the game closed, then restart.
+[list]
+[*]VehicleOpacity=0.25: enclosed-hull opacity; 0 is invisible, 1 is opaque. Bikes are unaffected.
+[*]VehicleRelativeOrientation=1: follow the chassis rotation; 0 restores the previous world-level horizon.
+[*]MechCockpitCamera=1: use the mech's camera attachment; 0 restores the pilot-head anchor.
+[*]MechCockpitUp=0.15 / MechCockpitForward=0.20: adjust the cockpit camera in world units. Up follows the vehicle when vehicle-relative orientation is enabled.
+[*]EyeForward / EyeUp: ordinary head-camera offsets.
+[*]LookDownForward / LookDownStartDegrees / LookDownEndDegrees / LookDownSmoothing: on-foot look-down adjustment.
+[*]VerticalFov=65: vertical field of view in degrees; relative weapon zoom is retained. 0 uses game FOV.
+[*]HideHeadMaterials=1: suppress local first-person head/helmet/hair materials.
+[*]ControllerToggle=LeftStick: LeftStick, RightStick, BothSticks or Off.
+[*]ControllerHoldMs=700 / ControllerIndex=0: hold duration and XInput slot.
+[/list]
+HeadBone defaults to kubi, the identified head/neck joint in the four shipped class models. Native aiming and weapon traverse limits still apply; this is not independent freelook.
+
+[b]Experimental status and known limits[/b]
+Bike first person and enclosed-hull fading have been visually tested during development. Read-only live inspection informed the Grape seat handling, crawler orientation and Vegalta cockpit placement. Five automated suites pass, including D3D11 pixel blending checks, camera restoration, vehicle orientation and entry regression tests. These checks do not replace a full playtest of every class and vehicle. The latest first-entry orientation correction still needs broader visual testing.
+[list]
+[*]Solo offline play only; online and split-screen use are unsupported. An active second camera disables the mod.
+[*]Transparent hulls may show sorting artifacts with other transparent effects.
+[*]Cockpit placement varies by model. Invalid cockpit attachments fall back to the pilot head; use the cockpit offsets to fine-tune supported mechs.
+[*]No separate camera wall-collision sweep, dedicated weapon viewmodels, or additional muzzle/crosshair parallax correction is included.
+[*]Other mods that replace the same camera/rendering functions may conflict.
+[/list]
+
+[b]Updating, switching back and uninstalling[/b]
+For updates, replace the DLL and keep your INI to retain settings. Newly added settings use defaults when absent.
+To uninstall, close the game and remove EDF41FPSVehicles.dll. Its INI and log can also be removed. To return to the on-foot-only FPS mod, remove the vehicle DLL before restoring EDF41FPS.dll. Keep EDFModLoader if another installed mod needs it.
+
+[b]Troubleshooting[/b]
+The plugin writes EDF41FPSVehicles.log beside the DLL. Include that log, your INI, class, vehicle and driver/passenger seat when reporting a camera issue. Mention whether it happens on first entry, after re-entry, during a wall/ceiling transition or after toggling perspective.
+
+[b]Source and credits[/b]
+Created by DevelopmentStatus. Requires EDFModLoader and includes MinHook; its license is supplied with the download.
+[url=https://github.com/DevelopmentStatus/EDF-4.1-Mods]Source code and development[/url]

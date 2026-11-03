@@ -1,0 +1,4 @@
+{
+  "result": "seat[0] addr=22695B81D90 visibleRider=0 cameraType=1 occupant=2275A591A70 world=462.173 0.542 385.539\nseat[1] addr=22695B81F10 visibleRider=1 cameraType=0 occupant=0 world=462.087 0.651 383.751\nseat[2] addr=22695B82090 visibleRider=1 cameraType=0 occupant=0 world=462.087 0.651 383.751\nseat[3] addr=22695B82210 visibleRider=1 cameraType=0 occupant=0 world=462.137 0.655 384.768\nseat[4] addr=22695B82390 visibleRider=1 cameraType=0 occupant=0 world=462.137 0.655 384.768",
+  "success": true
+}

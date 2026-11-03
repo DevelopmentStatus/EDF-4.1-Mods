@@ -1,9 +1,13 @@
-# Publish only the two mod projects and repository documentation.
+# Publish the mod projects and repository documentation.
 /*
 !/.gitignore
 !/README.md
 !/FPS/
+!/FPSVehicles/
 !/MenuMouse/
+!/NexusDescriptions/
+/NexusDescriptions/*
+!/NexusDescriptions/EDF41FPSVehicles-Nexus-Description.txt
 
 /FPS/build/
 /FPS/dist/

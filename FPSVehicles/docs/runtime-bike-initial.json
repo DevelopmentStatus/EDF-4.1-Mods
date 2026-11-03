@@ -1,0 +1,4 @@
+{
+  "result": "base=7FF6CEBC0000 scene=27A9B141520 camera=27AE076D030 actor=27AE06D2540 component=27AE06D2A90 nodes=27AE06D3BD0 count=65\ncameraState=7FF6CECA0200 vehicle=27AE0D41AF0 seat=27AE0F04E10\ncamera[170]=416.7660 2.4075 312.9879\ncamera[60]=416.7660 2.4075 312.9879\nnode[45] kubi parent=6 pos=419.4136 1.8887 311.0998\nbaseDraw=27AE06D2BC0 skeleton=27AE06D2B00 palette=27AE01CA4B0 groups=1\nLODs=2 distance=9.3467\nlod0=27ADD190680 skeleton=27AE06D2B00 palette=27AE01CA4B0 groups=1\nlod1=27ADD190770 skeleton=27AE06D2B00 palette=27AE01CA4B0 groups=1",
+  "success": true
+}
